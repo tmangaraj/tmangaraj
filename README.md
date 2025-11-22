@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tmangaraj" alt="tmangaraj" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@tmangaraj12" target="blank"><img src="https://img.shields.io/twitter/follow/@tmangaraj12?logo=twitter&style=for-the-badge" alt="@tmangaraj12" /></a> </p>
+<p align="left"> <a href="https://twitter.com/tmangaraj12" target="blank"><img src="https://img.shields.io/twitter/follow/tmangaraj12?logo=twitter&style=for-the-badge" alt="tmangaraj12" /></a> </p>
 
 - 🔭 I’m currently working on [Chat Application](https://github.com/tmangaraj)
 
@@ -25,7 +25,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@tmangaraj12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@tmangaraj12" height="30" width="40" /></a>
+<a href="https://twitter.com/tmangaraj12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tmangaraj12" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tanmaya mangaraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanmaya mangaraj" height="30" width="40" /></a>
 <a href="https://fb.com/tanmaya mangaraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tanmaya mangaraj" height="30" width="40" /></a>
 <a href="https://instagram.com/__iamtanmaya__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__iamtanmaya__" height="30" width="40" /></a>
